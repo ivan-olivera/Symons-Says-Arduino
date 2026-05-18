@@ -28,6 +28,4 @@ A Simon Says memory game built with Arduino Uno. The game shows a sequence of LE
 ## Built by
 Ivan Olivera - Uruguay
 First year student, Bachillerato Tecnológico
-## Photos
-![Circuito](IMG_0972.dng)
-![Jugando](IMG_0977.jpeg)
+
