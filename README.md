@@ -5,7 +5,7 @@ A Simon Says memory game built with Arduino Uno. The game shows a sequence of LE
 
 ## Components
 - Arduino Uno
-- 4 LEDs (blue, yellow, green, white)
+- 4 LEDs (blue, red, green, white)
 - 4 push buttons
 - 4 resistors (100Ω)
 - 1 buzzer
